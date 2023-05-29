@@ -7,7 +7,11 @@ Experiment to use Preact in SSR
 * `yarn dev`: Work in local, default url [http://localhost:3333](http://localhost:3333)
 * `yarn build`: Create distribution files.
 * `yarn generate`: Create prerender statics files.
-* `yarn serve`: Serve the statics files for PRODUCTION.
+* `yarn serve`: Serve the statics files for PRODUCTION. Default url [http://localhost:3333](http://localhost:3333)
+
+## Screenshot
+
+![alt text](/app-screenshot.png)
 
 ## Next steps
 
